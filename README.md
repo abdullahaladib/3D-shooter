@@ -49,7 +49,7 @@ Combat Arena drops the player into a tiled arena where enemies continuously appr
 
 ## Project Structure
 
-- `21201789_Abdullah Al Adib_section18_Assignment3.py`: Main game loop, rendering, input, and game logic.
+- `3D_shooter.py`: Main game loop, rendering, input, and game logic.
 - `OpenGL/`: Local OpenGL package files included with the project.
 
 ## How To Run
@@ -57,7 +57,7 @@ Combat Arena drops the player into a tiled arena where enemies continuously appr
 From the project root:
 
 ```bash
-python3 "21201789_Abdullah Al Adib_section18_Assignment3.py"
+python3 "3D_shooter.py"
 ```
 
 If your environment is missing OpenGL bindings, install:
